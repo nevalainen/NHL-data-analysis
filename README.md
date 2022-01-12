@@ -1,4 +1,3 @@
 # NHL-statistics
 
-This repository contains different (Python) applications that provide some statistical support for e.g. fantasy hockey by utilizing data provided by NHL API.
-
+This repository contains (Python) applications or Jupyter Notebooks that provide some statistical analyses of NHL
